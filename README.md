@@ -6,9 +6,10 @@ This repository holds the data and code for a state-level analysis of railway de
 - **Model:** a Bayesian hierarchical model estimates how deaths respond to passenger traffic, using the 2020–21 collapse of rail travel. It also estimates the trend in risk and the effect of NCRB's 2024 reclassification.
 - **Comparison:** the counts are set against the railways' own fatality returns (Annual Statistical Statements, Statement 41(F)).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24065923.svg)](https://doi.org/10.5281/zenodo.24065923)
 [![reproduce-and-verify](https://github.com/hssling/india-railway-deaths/actions/workflows/verify.yml/badge.svg)](https://github.com/hssling/india-railway-deaths/actions/workflows/verify.yml)
 
-**Status.** The accompanying manuscript is being prepared for submission.
+**Status.** The accompanying manuscript has been submitted for publication. Please cite this archive until the article is out: Siddalingaiah H S. *Railway deaths in India, 2014-2024: data and code* (v1.0.0). Zenodo; 2026. https://doi.org/10.5281/zenodo.24065923
 
 ## Main findings
 
