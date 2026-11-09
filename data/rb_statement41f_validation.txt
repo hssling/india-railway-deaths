@@ -1,0 +1,7 @@
+Railway Board Annual Statistical Statements, Statement 41(F), part (i) fatalities - checks (values kept as printed)
+- 2022-23 All zones: passengers 451 + employees 20 + others 9264 = 9735, printed total 9738 (difference 3). Zone employees sum to 23 (Northern 12, South Central 4, West Central 7) vs printed 20.
+- 2023-24 Northern: trespassers 3659 + suicides 687 + others 1551 = 5897, printed 'others total' 5918 (difference 21).
+- 2023-24 West Central: 693 + 120 + 287 = 1100, printed 1105 (difference 5).
+- 2024-25 Northern: 2928 + 475 + 1158 = 4561, printed 4568 (difference 7).
+- Zone rows sum to the printed All-zones totals for every column in 2023-24 and 2024-25.
+- Only 5-7 of 17 zones report any fatality in any year; 12 zones (incl. Central, Eastern, South Eastern, Southern) are nil in 2023-24 and 2024-25.

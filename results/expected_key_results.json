@@ -1,0 +1,137 @@
+{
+  "_note": "Values reported in the manuscript; verify.py recomputes each from data/ and outputs/ (main-model posterior draws).",
+  "national_deaths": {
+    "2014": 25006,
+    "2015": 26066,
+    "2018": 24545,
+    "2019": 24619,
+    "2020": 11968,
+    "2021": 16431,
+    "2022": 20792,
+    "2023": 21803,
+    "2024": 22413
+  },
+  "total_deaths_9_years": 193643,
+  "fall_share_2024_pct": 75.2,
+  "crossing_deaths_2024": 1888,
+  "share_in_22_states_min_pct": 99.7,
+  "corrected_2024": [
+    23281,
+    22648,
+    25401
+  ],
+  "elasticity": [
+    0.72,
+    0.49,
+    0.94
+  ],
+  "elasticity_suburban": [
+    0.62,
+    0.23,
+    1.01
+  ],
+  "fall_for_10pct_traffic_pct": 7.3,
+  "persist_2020_pct": [
+    54.2,
+    45.1,
+    65.6
+  ],
+  "not_occurring_2020": [
+    11803,
+    8397,
+    15275
+  ],
+  "not_occurring_2021": [
+    10621,
+    7418,
+    14035
+  ],
+  "traffic_change_2020_pct": -59.5,
+  "risk_trend_pct_per_year": [
+    0.8,
+    -1.8,
+    3.6
+  ],
+  "shift_2024_pct": [
+    -14.3,
+    -31.3,
+    7.0
+  ],
+  "shift_2024_incl_crossing": [
+    -12.6,
+    -20.7,
+    -3.4
+  ],
+  "shift_2024_drop_misfiled": [
+    -13.4,
+    -22.4,
+    -3.3
+  ],
+  "elasticity_range_sensitivity": [
+    0.62,
+    0.72
+  ],
+  "deaths_per_bn_pkm": {
+    "2019": 22.9,
+    "2024": 20.1
+  },
+  "state_rate_rk_2024": {
+    "Delhi": [
+      394,
+      263,
+      578
+    ],
+    "Haryana": 63,
+    "Maharashtra": 60,
+    "West Bengal": 55
+  },
+  "state_rate_pop_2024": {
+    "Haryana": [
+      3.7,
+      2.6,
+      5.4
+    ],
+    "Delhi": 3.4,
+    "Maharashtra": 2.8,
+    "Punjab": 2.7
+  },
+  "state_deaths_2024": {
+    "Maharashtra": 3587,
+    "Uttar Pradesh": 3538
+  },
+  "karnataka_imputed_2024": [
+    868,
+    235,
+    2988
+  ],
+  "rb41f": {
+    "2022-23": [
+      9738,
+      46.8
+    ],
+    "2023-24": [
+      9189,
+      42.1
+    ],
+    "2024-25": [
+      9267,
+      41.3
+    ]
+  },
+  "maharashtra_2023_2024": [
+    3445,
+    3587
+  ],
+  "west_bengal_2023_2024": [
+    1863,
+    2091
+  ],
+  "swr_2023_24_2024_25": [
+    1276,
+    1289
+  ],
+  "mcmc": {
+    "max_rhat": 1.011,
+    "divergences": 0
+  }
+}

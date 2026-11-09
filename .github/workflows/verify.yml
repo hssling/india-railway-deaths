@@ -1,0 +1,19 @@
+name: reproduce-and-verify
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Rebuild model panel, derived quantities and figures from the committed draws
+        run: |
+          python src/model_inputs.py
+          python src/derived.py
+          python src/figures.py
+      - name: Verify every reported number
+        run: python verify.py

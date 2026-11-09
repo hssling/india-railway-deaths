@@ -1,0 +1,27 @@
+level,zone,fy,rb_fatalities,rb_trespassers,rb_suicides,ncrb_states,ncrb_calendar_year,ncrb_deaths,ratio_rb_to_ncrb,zones_reporting
+national,All zones,2022-23,9738,6965.0,867.0,All India,2022,20792.0,0.468,6.0
+zone,Northern,2022-23,5790,3799.0,669.0,Delhi; Haryana; Punjab; Himachal Pradesh; Jammu & Kashmir incl. Ladakh; Uttarakhand; Chandigarh,2022,2829.0,2.047,
+zone,South Western,2022-23,447,45.0,172.0,Karnataka; Goa,2022,54.0,8.278,
+zone,West Central,2022-23,1258,934.0,26.0,Madhya Pradesh,2022,1275.0,0.987,
+zone,Western,2022-23,2028,2028.0,0.0,Gujarat,2022,777.0,2.61,
+zone,Central,2022-23,0,0.0,0.0,Maharashtra,2022,3145.0,0.0,
+zone,Eastern,2022-23,30,30.0,0.0,West Bengal,2022,1935.0,0.016,
+national,All zones,2023-24,9189,5157.0,1368.0,All India,2023,21803.0,0.421,5.0
+zone,Northern,2023-24,6296,3659.0,687.0,Delhi; Haryana; Punjab; Himachal Pradesh; Jammu & Kashmir incl. Ladakh; Uttarakhand; Chandigarh,2023,2785.0,2.261,
+zone,South Western,2023-24,1276,495.0,561.0,Karnataka; Goa,2023,43.0,29.674,
+zone,West Central,2023-24,1297,693.0,120.0,Madhya Pradesh,2023,1334.0,0.972,
+zone,Western,2023-24,253,245.0,0.0,Gujarat,2023,761.0,0.332,
+zone,Central,2023-24,0,0.0,0.0,Maharashtra,2023,3445.0,0.0,
+zone,Eastern,2023-24,0,0.0,0.0,West Bengal,2023,1863.0,0.0,
+national,All zones,2024-25,9267,4445.0,1093.0,All India,2024,22413.0,0.413,5.0
+zone,Northern,2024-25,5965,2928.0,475.0,Delhi; Haryana; Punjab; Himachal Pradesh; Jammu & Kashmir incl. Ladakh; Uttarakhand; Chandigarh,2024,2662.0,2.241,
+zone,South Western,2024-25,1289,390.0,411.0,Karnataka; Goa,2024,38.0,33.921,
+zone,West Central,2024-25,1571,693.0,207.0,Madhya Pradesh,2024,1421.0,1.106,
+zone,Western,2024-25,214,210.0,0.0,Gujarat,2024,870.0,0.246,
+zone,Central,2024-25,0,0.0,0.0,Maharashtra,2024,3587.0,0.0,
+zone,Eastern,2024-25,0,0.0,0.0,West Bengal,2024,2091.0,0.0,
+consequential train accidents (passengers killed),All zones,2014-15,118,,,,2014,25006.0,0.0047,
+consequential train accidents (passengers killed),All zones,2015-16,40,,,,2015,26066.0,0.0015,
+consequential train accidents (passengers killed),All zones,2016-17,195,,,,2016,,,
+consequential train accidents (passengers killed),All zones,2017-18,28,,,,2017,,,
+consequential train accidents (passengers killed),All zones,2018-19,16,,,,2018,24545.0,0.0007,

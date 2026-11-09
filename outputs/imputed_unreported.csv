@@ -1,0 +1,19 @@
+unit,year,imputed_median,lo,hi
+Karnataka,2014,856,262,2650
+Karnataka,2018,957,296,2824
+Karnataka,2019,920,282,2787
+Karnataka,2020,478,141,1552
+Karnataka,2021,537,153,1769
+Karnataka,2022,805,237,2605
+Karnataka,2023,930,264,3139
+Karnataka,2024,868,235,2988
+Odisha,2022,325,111,732
+Odisha,2023,369,126,864
+ALL INDIA corrected (printed + imputed),2014,25862,25268,27656
+ALL INDIA corrected (printed + imputed),2018,25502,24841,27369
+ALL INDIA corrected (printed + imputed),2019,25539,24901,27406
+ALL INDIA corrected (printed + imputed),2020,12446,12109,13520
+ALL INDIA corrected (printed + imputed),2021,16968,16584,18200
+ALL INDIA corrected (printed + imputed),2022,21957,21296,23778
+ALL INDIA corrected (printed + imputed),2023,23151,22363,25401
+ALL INDIA corrected (printed + imputed),2024,23281,22648,25401

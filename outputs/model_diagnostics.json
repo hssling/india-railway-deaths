@@ -1,0 +1,167 @@
+{
+ "main": {
+  "scenario": "main",
+  "seconds": 22,
+  "max_rhat": 1.0056,
+  "min_neff": 829,
+  "divergences": 0,
+  "n_obs": 188,
+  "elasticity_all": [
+   0.723,
+   0.491,
+   0.94
+  ],
+  "elasticity_non_suburban": [
+   0.723,
+   0.491,
+   0.94
+  ],
+  "elasticity_suburban": [
+   0.624,
+   0.233,
+   1.009
+  ],
+  "risk_trend_pct_per_year": [
+   0.82,
+   -1.83,
+   3.62
+  ],
+  "shift_2024_pct": [
+   -14.3,
+   -31.3,
+   7.0
+  ]
+ },
+ "incl_crossing": {
+  "scenario": "incl_crossing",
+  "seconds": 35,
+  "max_rhat": 1.0075,
+  "min_neff": 579,
+  "divergences": 0,
+  "n_obs": 188,
+  "elasticity_all": [
+   0.619,
+   0.436,
+   0.805
+  ],
+  "elasticity_non_suburban": [
+   0.619,
+   0.436,
+   0.805
+  ],
+  "elasticity_suburban": [
+   0.666,
+   0.312,
+   1.018
+  ],
+  "risk_trend_pct_per_year": [
+   -0.14,
+   -2.08,
+   1.92
+  ],
+  "shift_2024_pct": [
+   -12.6,
+   -20.7,
+   -3.4
+  ]
+ },
+ "drop_misfiled": {
+  "scenario": "drop_misfiled",
+  "seconds": 35,
+  "max_rhat": 1.0104,
+  "min_neff": 554,
+  "divergences": 0,
+  "n_obs": 184,
+  "elasticity_all": [
+   0.714,
+   0.56,
+   0.884
+  ],
+  "elasticity_non_suburban": [
+   0.714,
+   0.56,
+   0.884
+  ],
+  "elasticity_suburban": [
+   0.643,
+   0.337,
+   0.958
+  ],
+  "risk_trend_pct_per_year": [
+   0.03,
+   -2.52,
+   2.82
+  ],
+  "shift_2024_pct": [
+   -13.4,
+   -22.4,
+   -3.3
+  ]
+ },
+ "extra_noise": {
+  "scenario": "extra_noise",
+  "seconds": 31,
+  "max_rhat": 1.0036,
+  "min_neff": 1053,
+  "divergences": 0,
+  "n_obs": 188,
+  "elasticity_all": [
+   0.719,
+   0.501,
+   0.939
+  ],
+  "elasticity_non_suburban": [
+   0.719,
+   0.501,
+   0.939
+  ],
+  "elasticity_suburban": [
+   0.624,
+   0.228,
+   1.008
+  ],
+  "risk_trend_pct_per_year": [
+   0.87,
+   -1.73,
+   3.7
+  ],
+  "shift_2024_pct": [
+   -14.4,
+   -31.2,
+   6.7
+  ]
+ },
+ "no_suburban": {
+  "scenario": "no_suburban",
+  "seconds": 22,
+  "max_rhat": 1.006,
+  "min_neff": 724,
+  "divergences": 0,
+  "n_obs": 188,
+  "elasticity_all": [
+   0.702,
+   0.498,
+   0.906
+  ],
+  "elasticity_non_suburban": [
+   0.702,
+   0.498,
+   0.906
+  ],
+  "elasticity_suburban": [
+   0.702,
+   0.498,
+   0.906
+  ],
+  "risk_trend_pct_per_year": [
+   0.84,
+   -1.88,
+   3.59
+  ],
+  "shift_2024_pct": [
+   -14.3,
+   -31.2,
+   6.5
+  ]
+ }
+}
